@@ -25,7 +25,7 @@
   "@adiwajshing/keyed-db": "^0.2.4",
   "@bochilteam/scraper": "4.0.22-alpha.0",
   "@saipulanuar/jadianime-ts": "^2.0.0",
-  "@whiskeysockets/baileys": "6.7.9",
+  "@whiskeysockets/baileys": "github:nstar-y/Bail",
   "@hapi/boom": "^10.0.1",
   "awesome-phonenumber": "^5.9.0",
   "anime-wallpaper": "^1.0.2",
